@@ -1,5 +1,3 @@
-#Números primos
-
 def primo (n):
     if n != 0 and n !=1:
         if n>3:
